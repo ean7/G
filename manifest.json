@@ -1,0 +1,15 @@
+{
+  "issue": "NOZ-386",
+  "candidate_status": "NOT_OPERATING_ACCEPTED",
+  "snapshot": "data/live_snapshot.json",
+  "daily_close": "reports/daily_close_2026-09-04.md",
+  "weekly_close": "reports/weekly_close_2026-W36.md",
+  "workbook_expected_sha256": "adf3b6d38744c0ca298d88782f51d462cc75591de1607f8d6e88792b62324814",
+  "workbook_available": false,
+  "validator_86_of_86": false,
+  "drive_raw_readback": false,
+  "operating_acceptance": false,
+  "telegram_delivery": false,
+  "d1_started": false,
+  "financial_effect_verified": false
+}

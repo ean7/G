@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "issue": "NOZ-386",
+  "source": "Linear prompt context supplied to Codex",
+  "source_updated_at": "2026-09-04T05:26:56.046Z",
+  "snapshot_at": "2026-09-04T05:27:40Z",
+  "read_only": true,
+  "coverage": {
+    "complete": false,
+    "reason": "LINEAR_WORKSPACE_API_UNAVAILABLE",
+    "scope": "Active Board/MetaTeam issues explicitly present in NOZ-386 prompt context; not a workspace-wide enumeration"
+  },
+  "tasks": [
+    {"id":"NOZ-386","status":"Backlog","owner":"Eugenyi Nozhenko","delegate":"Codex","due":"2026-09-04","project":"Борд — Strategy & Governance","parent":"NOZ-51","flow":"UNKNOWN","next_action":"Obtain complete read-only Linear export and refresh workbook","evidence":"NOZ-386 prompt context"},
+    {"id":"NOZ-51","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"Codex","due":"2026-09-05","project":"Борд — Strategy & Governance","parent":"NOZ-44","flow":"PROGRAM","next_action":"Refresh current snapshot and close only after gates","evidence":"NOZ-386 parent issue context"},
+    {"id":"NOZ-44","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"UNKNOWN","project":"Борд — Strategy & Governance","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Keep as portfolio umbrella, not execution result","evidence":"NOZ-386 parent context"},
+    {"id":"NOZ-33","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"UNKNOWN","project":"MetaTeam — LMS","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Keep as program umbrella","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-70","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-06","project":"Борд — Strategy & Governance","parent":"NOZ-51","flow":"PROGRAM","next_action":"Complete control canon through accepted reporting close","evidence":"NOZ-386 parent sub-issues"},
+    {"id":"NOZ-46","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-04","project":"Борд — Strategy & Governance","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Keep Telegram delivery separate from reporting acceptance","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-14","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-06","project":"MetaTeam — Financial Model","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Complete calculation core and verify on real data","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-129","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-20","project":"Борд — Strategy & Governance","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Complete source-of-truth and lineage work","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-125","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-02","project":"Борд — Strategy & Governance","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Verify overdue cash-flow work and evidence","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-59","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"UNKNOWN","project":"Борд — Strategy & Governance","parent":"UNKNOWN","flow":"UNKNOWN","next_action":"Verify current evidence and acceptance route","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-60","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-05","project":"Борд — Strategy & Governance","parent":"UNKNOWN","flow":"UNKNOWN","next_action":"Verify current evidence and acceptance route","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-176","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-04","project":"MetaTeam — Financial Model","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Obtain methodology acceptance evidence","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-135","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-10-03","project":"MetaTeam — Company Operating System","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Continue program without claiming launch","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-170","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-02","project":"Board — Operating System","parent":"UNKNOWN","flow":"UNKNOWN","next_action":"Verify overdue evidence","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-123","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-10","project":"Борд — Strategy & Governance","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Continue portfolio priority implementation","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-139","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-20","project":"Board — Operating System","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Complete project architecture standard","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-266","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-04","project":"Борд — Strategy & Governance","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Complete company/project classification","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-228","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-04","project":"Board — Operating System","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Verify continuity route evidence","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-211","status":"In Progress","owner":"Eugenyi Nozhenko","delegate":"UNKNOWN","due":"2026-09-05","project":"Board — Operating System","parent":"UNKNOWN","flow":"PROGRAM","next_action":"Continue evidence-based research control","evidence":"NOZ-386 relations"},
+    {"id":"NOZ-326","status":"In Progress","owner":"Ярослав Литвинов","delegate":"UNKNOWN","due":"2026-09-04","project":"MetaTeam — LMS","parent":"UNKNOWN","flow":"UNKNOWN","next_action":"Verify chat registry evidence","evidence":"NOZ-386 relations"}
+  ]
+}
